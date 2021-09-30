@@ -67,7 +67,7 @@ Different interfaces may requires different firewall rules due to the various se
 
 * wlan1 = second WiFi interface, etc.
 
-### Commands:
+### Commands used in this tutorial:
 
 * Use sudo /etc/init.d/firewalld start: to start the firewall.
 * Use sudo firewall-cmd: to create, modify, and delete rules.
